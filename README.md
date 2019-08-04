@@ -1,4 +1,4 @@
-# Opencart-3.x.x-Authenticated-Stored-XSS
+# Opencart 3.x.x Authenticated Stored XSS
 
 ### Description
 
