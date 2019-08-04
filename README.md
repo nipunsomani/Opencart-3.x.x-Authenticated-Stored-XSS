@@ -8,7 +8,7 @@ The Opencart Version 3.x.x allows editing Source/HTML of the Categories / Produc
 
 1. Log-in to admin-panel.
 
-2. Navigate to **Catlog** and then **Categories** or **Products** or **Information**
+2. Navigate to **Catlog** and then **Categories** or **Products** or **Information** and select any.
 
 3. Under description click on **Source** option and insert your XSS payload. i.e: "><script>alert("XSS")</script>
 ![Opencart Authenticated Stored XSS](/oc_authenticated_stored_xss.png)
