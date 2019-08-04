@@ -12,3 +12,7 @@ Proof-of-Concept(POC):
 
 3. Under description click on **Source** option and insert your XSS payload. i.e: "><script>alert("XSS")</script>
 ![Opencart Authenticated Stored XSS](/oc_authenticated_stored_xss.png)
+
+4. Now visit the modified page of your public website. And your injected XSS payload will execute.
+
+![Opencart Authenticated Stored XSS](/xss_popup.png)
