@@ -1,4 +1,5 @@
-# Opencart 3.x.x Authenticated Stored XSS [CVE-2019-15081]
+# Opencart 3.x.x Authenticated Stored XSS
+# CVE-2019-15081
 
 ### Description
 
